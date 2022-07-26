@@ -1,0 +1,10 @@
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:40:6:SSD1322_HW_drive_CS_low	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:51:6:SSD1322_HW_drive_CS_high	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:62:6:SSD1322_HW_drive_DC_low	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:73:6:SSD1322_HW_drive_DC_high	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:84:6:SSD1322_HW_drive_RESET_low	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:95:6:SSD1322_HW_drive_RESET_high	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:100:6:HAL_SPI_TxCpltCallback	24	static,ignoring_inline_asm
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:123:6:SSD1322_HW_SPI_send_byte	16	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:147:6:SSD1322_HW_SPI_send_array	16	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_HW_Driver.c:163:6:SSD1322_HW_msDelay	16	static

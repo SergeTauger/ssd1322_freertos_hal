@@ -1,0 +1,2 @@
+../Core/Src/FreeRtos/freertos.c:76:6:vApplicationGetTimerTaskMemory	24	static
+../Core/Src/FreeRtos/freertos.c:102:6:vApplicationGetIdleTaskMemory	24	static

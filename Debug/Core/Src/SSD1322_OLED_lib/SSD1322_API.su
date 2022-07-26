@@ -1,0 +1,14 @@
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:28:6:SSD1322_API_command	56	static,ignoring_inline_asm
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:73:6:SSD1322_API_data	56	static,ignoring_inline_asm
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:109:6:OledTask	24	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:144:6:SSD1322_API_init	16	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:200:6:SSD1322_API_deInit	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:216:6:SSD1322_API_set_display_mode	16	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:239:6:SSD1322_API_sleep_on	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:248:6:SSD1322_API_sleep_off	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:257:6:SSD1322_API_set_contrast	16	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:267:6:SSD1322_API_set_brightness	16	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:288:9:SSD1322_API_custom_grayscale	24	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:305:6:SSD1322_API_default_grayscale	8	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:319:6:SSD1322_API_set_window	24	static
+../Core/Src/SSD1322_OLED_lib/SSD1322_API.c:338:6:SSD1322_API_send_buffer	56	static,ignoring_inline_asm
